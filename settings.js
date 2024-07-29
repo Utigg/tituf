@@ -2,17 +2,17 @@ const fs = require('fs');
 const chalk = require('chalk');
 
 /*
-	* Create By Naze
-	* Follow https://github.com/nazedev
-	* Whatsapp : wa.me/6282113821188
+	* Create By UTI
+	* Follow ig hj_cepu
+	* Whatsapp : wa.me/6283131747354
 */
 
 //~~~~~~~~~~~~< GLOBAL SETTINGS >~~~~~~~~~~~~\\
 
-global.owner = ['6282113821188','6281356484612','6285773557984']
-global.packname = 'Bot WhatsApp'
-global.author = 'Nazedev'
-global.botname = 'Naze Bot'
+global.owner = ['6283131747354','6283131747354','6283120966693']
+global.packname = 'UTI BOT'
+global.author = 'UTI BOT'
+global.botname = 'UTI BOT'
 global.listv = ['•','●','■','✿','▲','➩','➢','➣','➤','✦','✧','△','❀','○','□','♤','♡','◇','♧','々','〆']
 global.tempatDB = 'database.json'
 
@@ -25,9 +25,9 @@ global.fake = {
 }
 
 global.my = {
-	yt: 'https://youtube.com/c/Nazedev',
-	gh: 'https://github.com/nazedev',
-	gc: 'https://chat.whatsapp.com/Hx9vcBVhbc04KLVGPFtH2R',
+	yt: 'https://youtube.com/c/Nanzedev',
+	gh: 'https://github.com/nazebdev',
+	gc: 'https://chat.whatsapp.com/Hx9vcnBVhbc04KLVGPFtH2R',
 	ch: '120363250409960161@newsletter',
 }
 
